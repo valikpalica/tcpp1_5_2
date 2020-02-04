@@ -2,9 +2,15 @@
 
     margin-top: 10px;
 }
+.nametag{
+
+    text-align: center;
+
+
+}
 table{
     border-spacing: 0px;
-    background-color: aqua;
+
 
 }
 .table{
@@ -12,8 +18,9 @@ table{
 }
 caption{
     border: 1px solid;
-    background-color: aqua;
+
     height: 25px;
+
 }
 table{
 
@@ -22,8 +29,11 @@ table{
 th{
     border: 1px solid;
     height: 25px;
+
 }
 td{
     border: 1px solid;
     height: 25px;
+    text-align: justify;
+
 }
